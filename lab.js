@@ -5,6 +5,10 @@
 */
 
 //Code here
+let me = {
+  name: `bryce`,
+  age: 22
+}
 
 
 
@@ -16,6 +20,12 @@
 //and goodBoy/goodGirl (a boolean).
 
 //Code here
+let dog = {
+  name: `jujumagumbo`,
+  color: `yellow`,
+  age: 1.5,
+  gooBoy: true
+}
 
 
 
@@ -23,7 +33,7 @@
 /* Print out the name of the dog you created in problem 2 using dot-notation. */
 
 //Code here
-
+console.log(dog.name);
 
 
 //////////////////////////// PROBLEM 4 ////////////////////////////
